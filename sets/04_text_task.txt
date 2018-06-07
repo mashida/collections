@@ -1,0 +1,21 @@
+OK, let's create something a bit more refined.
+
+Ладно, давай сделаем что-нибудь по-другому.
+
+Create a new function named covers_all that takes a single set as an argument.
+Создай новую функцию под названием covers_all которая принимает один сет
+в качестве аргумента
+
+Return the names of all of the courses, in a list,
+where all of the topics in the supplied set are covered.
+Вернуть имена всех курсов, в виде списка, где все темы из заданной переменной
+присутствуют.
+
+For example, covers_all({"conditions", "input"})
+would return ["Python Basics", "Ruby Basics"].
+Например с сетом {"conditions", "input"} функция
+вернет ["Python Basics", "Ruby Basics"].
+
+Java Basics and PHP Basics would be excluded
+because they don't include both of those topics.
+Java Basics and PHP Basics будут исключены потому что они не включают обе темы.
